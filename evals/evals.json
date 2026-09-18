@@ -1,0 +1,23 @@
+{
+  "skill_name": "gbp-content-planner",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "I need a Google Business Profile content plan for my salon in Mumbai. It's called 'Glow Beauty Studio' - we do haircuts, facials, bridal makeup, and waxing. We're in Andheri West. I want 10 GBP posts for this month.",
+      "expected_output": "A complete GBP content plan with 10 unique posts including topic plan, humanized post copy, visual concepts, and AI image prompts.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Create 30 GBP posts for my plumbing business - 'QuickFix Plumbing' based in Austin, TX. We handle emergency repairs, drain cleaning, water heater installation, and pipe relining.",
+      "expected_output": "A complete GBP content plan with 30 unique posts covering multiple content pillars with humanized copy, SEO keywords, visual concepts, and AI image prompts.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "I run a small electronics repair shop called 'TechCare Solutions' in Bangalore, India. We fix smartphones, laptops, tablets, and gaming consoles. Located in Koramangala. Need a 20-post GBP content plan.",
+      "expected_output": "A complete GBP content plan with 20 unique posts emphasizing trust-building, educational content, and service explanations.",
+      "files": []
+    }
+  ]
+}
