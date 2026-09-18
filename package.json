@@ -1,0 +1,15 @@
+{
+  "name": "gbp-content-planner",
+  "version": "1.0.0",
+  "description": "Bulk Google Business Profile content planner and post generator for local businesses.",
+  "main": "index.js",
+  "bin": { "gbp-planner": "./bin/gbp-planner.js" },
+  "keywords": ["google-business-profile","gbp","local-seo","content-planner","content-calendar","local-business","seo","ai-content","agent-skill"],
+  "author": "ilovekushgola",
+  "license": "MIT",
+  "files": ["bin/","index.js","SKILL.md","references/","evals/","assets/","scripts/","README.md","LICENSE"],
+  "repository": { "type": "git", "url": "https://github.com/ilovekushgola/gbp-content-planner.git" },
+  "homepage": "https://github.com/ilovekushgola/gbp-content-planner#readme",
+  "bugs": { "url": "https://github.com/ilovekushgola/gbp-content-planner/issues" },
+  "engines": { "node": ">=14.0.0" }
+}
